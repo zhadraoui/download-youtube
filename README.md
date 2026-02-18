@@ -65,5 +65,4 @@ L'affaire a des ramifications dans plusieurs pays, et a des répercussions sur u
             print("❌ Choix invalide")
 ```
 
-
 je connais une site dedie ou aiutomataion [youtube](https://www.youtube.com/watch?v=UmQDMqAjZiw)
